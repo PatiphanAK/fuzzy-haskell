@@ -57,7 +57,7 @@ Then:
 * 29.9°C → $0$ (Not Hot)
 * 30.0°C → $1$ (Hot)
 
-Does a $0.1^\circ$C difference truly change the qualitative experience from “not hot” to “hot”? In most practical contexts, it does not.
+Does a $0.1^\circ$ C difference truly change the qualitative experience from “not hot” to “hot”? In most practical contexts, it does not.
 
 ### Fuzzy Perspective
 
