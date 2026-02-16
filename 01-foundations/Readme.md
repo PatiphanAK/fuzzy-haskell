@@ -29,7 +29,7 @@ Before introducing fuzzy sets, we briefly recap classical set theory.
 In classical set theory, a set $A \subseteq X$ is defined by its characteristic function:
 
 $$
-\chi_A : X \to {0,1}
+\chi_A : X \to \\{0,1\\}
 $$
 
 What happens if we relax the codomain?
@@ -79,7 +79,7 @@ Here, “hot” becomes a matter of degree rather than a binary classification.
 Let $X$ be a universe of discourse. A classical set $A \subseteq X$ is defined by its characteristic function:
 
 $$
-\chi_A : X \to {0,1}
+\chi_A : X \to \\{0,1\\}
 $$
 
 with
