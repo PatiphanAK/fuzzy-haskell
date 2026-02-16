@@ -1,6 +1,6 @@
 # Introduction to Fuzzy
 
-In high school mathematics and later in discrete mathematics courses, set theory is introduced under classical (crisp) logic. Formally, modern set theory is grounded in the Zermelo–Fraenkel set theory with the Axiom of Choice (Zermelo–Fraenkel set theory): **ZFC**. Before introducing fuzzy sets, we briefly recap classical set theory and its underlying assumptions.
+In high school mathematics and later in discrete mathematics courses, set theory is introduced under classical (crisp) logic. Formally, modern set theory is grounded in the Zermelo–Fraenkel set theory with the Axiom of Choice (Zermelo–Fraenkel set theory : **ZFC** ). Before introducing fuzzy sets, we briefly recap classical set theory and its underlying assumptions.
 
 ## Transition Question
 
