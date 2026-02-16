@@ -1,17 +1,17 @@
 # Introduction to Fuzzy Sets
 
 Generally, we constantly classify, evaluate, and judge situations in ways that can be modeled mathematically through set-theoretic thinking.
-Many ordinary activities determining whether something is "tall", "hot" or "expensive" implicitly involve memebership in conceptual set.
+Many ordinary activities determining whether something is "tall", "hot", or "expensive" implicitly involve memebership in conceptual set.
 
 ## Example
 
 Consider the following everyday classifications:
 
-* **Height**: When we say “John is tall,” we implicitly reference a set of *tall people*. Yet there is no universally sharp boundary at which a person suddenly becomes tall. Is 179 cm not tall while 180 cm is tall? The distinction is gradual rather than absolute.
+* **Height**: When we say "John is tall", we implicitly reference a set of *tall people*. Yet there is no universally sharp boundary at which a person suddenly becomes tall. Is 179 cm not tall while 180 cm is tall? The distinction is gradual rather than absolute.
 
-* **Price**: When we describe a product as “expensive,” we compare it against an implicit set of *expensive items*. The threshold varies by context, income level, and social norms.
+* **Price**: When we describe a product as "expensive", we compare it against an implicit set of *expensive items*. The threshold varies by context, income level, and social norms.
 
-* **Weather**: When we claim “Today is hot,” we implicitly refer to the set of *hot days*. However, temperature perception changes continuously rather than discretely.
+* **Weather**: When we claim "Today is hot", we implicitly refer to the set of *hot days*. However, temperature perception changes continuously rather than discretely.
 
 In each case, we are performing a classification task. Classical set theory requires a precise boundary separating members from non-members. Human reasoning, however, typically operates with gradual transitions rather than strict cutoffs.
 
