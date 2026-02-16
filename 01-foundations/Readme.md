@@ -1,6 +1,18 @@
 # Introduction to Fuzzy
 
-In high school mathematics and later in discrete mathematics courses, set theory is introduced under classical (crisp) logic. Formally, modern set theory is grounded in the Zermelo–Fraenkel set theory with the Axiom of Choice (Zermelo–Fraenkel set theory), commonly abbreviated as **ZFC**. Before introducing fuzzy sets, we briefly recap classical set theory and its underlying assumptions.
+In high school mathematics and later in discrete mathematics courses, set theory is introduced under classical (crisp) logic. Formally, modern set theory is grounded in the Zermelo–Fraenkel set theory with the Axiom of Choice (Zermelo–Fraenkel set theory): **ZFC**. Before introducing fuzzy sets, we briefly recap classical set theory and its underlying assumptions.
+
+## Transition Question
+
+If classical sets are:
+
+$$\chi_A : X \to \\{0,1\\}$$
+
+What happens if we relax the codomain?
+
+$$\mu_A : X \to [0,1]$$
+
+What algebraic structure replaces Boolean algebra?
 
 ## Classical Set Theory
 
@@ -103,18 +115,6 @@ Classical sets cannot express gradual membership.
 They assume sharp boundaries.
 
 Reality often does not.
-
-## Transition Question
-
-If classical sets are:
-
-$$\chi_A : X \to \\{0,1\\}$$
-
-What happens if we relax the codomain?
-
-$$\mu_A : X \to [0,1]$$
-
-What algebraic structure replaces Boolean algebra?
 
 ## Entering the World of Fuzzy Sets
 From our earlier question: **"What happens if we relax the codomain from  to ?"**
