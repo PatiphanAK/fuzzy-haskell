@@ -1,8 +1,10 @@
 Fuzzy Learning with Haskell
 
-A personal research-driven repository exploring Fuzzy Set Theory, Fuzzy Logic, Fuzzy Control Systems, and Linguistic Variables implemented in Haskell.
-This repository serves as:
-- A structured self-learning log
-- A bridge between mathematics and functional programming
-- An experimental playground for fuzzy systems
-- An introduction to Granular Computing (GrC)
+Implementation of fuzzy set theory and fuzzy logic in Haskell.
+This repository contains notes, mathematical derivations, and small code experiments while studying fuzzy sets, many-valued logic, and basic fuzzy control systems.
+Content:
+- Definitions
+- Laws
+- Algebra
+- Code
+Nothing production-ready. Just foundations.
