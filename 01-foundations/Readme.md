@@ -1,6 +1,6 @@
 # Introduction to Fuzzy Sets
 
-In daily life, we constantly classify, evaluate, and judge situations in ways that can be modeled mathematically through set-theoretic thinking. Many ordinary activities — determining whether something is “hot,” “tall,” or “expensive” — implicitly involve membership in conceptual sets.
+In daily life, we constantly classify, evaluate, and judge situations in ways that can be modeled mathematically through set-theoretic thinking. Many ordinary activities determining whether something is “hot,” “tall,” or “expensive” implicitly involve membership in conceptual sets.
 
 ## Example
 
