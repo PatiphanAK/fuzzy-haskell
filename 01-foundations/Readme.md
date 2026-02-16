@@ -8,7 +8,7 @@ In high school mathematics and later in discrete mathematics courses, set theory
 
 Let $X$ be a universe of discourse. A classical set $A \subseteq X$ is defined by its **characteristic function**:
 
-$$\chi_A : X \to \{0,1\}$$
+$$\chi_A : X \to \\{0,1\\}$$
 
 where:
 
@@ -59,7 +59,7 @@ Notice something important: Even in classical set theory, operations can be writ
 
 ### 4. Algebraic Structure
 
-The set of truth values in classical logic is $\mathbf{2} = \{0,1\}$ with operations:
+The set of truth values in classical logic is $\mathbf{2} = \\{0,1\\}$ with operations:
 * $\land$ (AND)
 * $\lor$ (OR)
 * $\neg$ (NOT)
