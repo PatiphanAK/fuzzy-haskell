@@ -142,7 +142,7 @@ This observation is crucial: classical set operations already suggest a structur
 The set of truth values in classical logic is
 
 $$
-\mathbf{2} = {0,1}
+\mathbf{2} = \\{0,1\\}
 $$
 
 with operations:
