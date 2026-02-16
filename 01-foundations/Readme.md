@@ -109,13 +109,13 @@ Reality often does not.
 If classical sets are:
 
 $$
-\chi_A : X \to { 0,1 }
+\chi_A : X \to \{0,1\}
 $$
 
 What happens if we relax the codomain?
 
 $$
-\mu_A : X \to [ 0,1 ]
+\mu_A : X \to [0,1]
 $$
 
 What algebraic structure replaces Boolean algebra?
